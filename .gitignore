@@ -10,6 +10,8 @@
 *.ptc
 *.synctex.gz
 *.toc
+*.fls 
+*.fdb_latexmk
 thesis.pdf
 
 # IntelliJ options
